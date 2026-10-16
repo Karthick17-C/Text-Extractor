@@ -1,1 +1,1 @@
-Hello !
+Developed a web-based text extraction application that allows users to upload images and extract text using an external API. Built with React.js and Django, the application stores extracted text in a MySQLite database, enabling users to access, manage, and retrieve previously extracted content efficiently through a simple and user-friendly interface.
