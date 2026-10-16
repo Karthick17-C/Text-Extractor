@@ -1,0 +1,18 @@
+:root {
+  --bg: #0b1020;
+  --card: #0f1733;
+  --text: #e8ecf4;
+  --muted: #9aa3b2;
+  --accent: #6ea8fe;
+  --accent-2: #4f85e0;
+  --border: #1f294a;
+  --danger: #ff6b6b;
+  --success: #51cf66;
+  --shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+}
+
+body {
+  background: radial-gradient(circle at 50% -20%, #192753 0, var(--bg) 45%);
+  color: var(--text);
+  min-height: 100vh;
+}
